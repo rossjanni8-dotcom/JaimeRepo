@@ -1,4 +1,4 @@
-Name: Build Coords Capture
+name: Build Coords Capture
 
 on:
   push:
